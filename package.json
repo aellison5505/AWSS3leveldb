@@ -15,6 +15,18 @@
   "author": "Anthony Ellison <aellison@mobilewebapp.net> (www.mobilewebapp.net)",
   "license": "MIT",
   "dependencies": {
-    "abstract-leveldown": "^2.6.2"
-  }
+    "abstract-leveldown": "^2.6.2",
+    "aws-sdk": "^2.96.0"
+  },
+  "devDependencies": {
+    "levelup": "^1.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aellison5505/AWSS3leveldb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aellison5505/AWSS3leveldb/issues"
+  },
+  "homepage": "https://github.com/aellison5505/AWSS3leveldb#readme"
 }
