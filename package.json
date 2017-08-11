@@ -1,0 +1,20 @@
+{
+  "name": "aws_s3_leveldb",
+  "version": "0.1.0",
+  "description": "AWS S3 LevelDB ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "LevelDown",
+    "LevelUP"
+  ],
+  "author": "Anthony Ellison <aellison@mobilewebapp.net> (www.mobilewebapp.net)",
+  "license": "MIT",
+  "dependencies": {
+    "abstract-leveldown": "^2.6.2"
+  }
+}
